@@ -1,4 +1,6 @@
-<img src="./MutAIon-Logo.png" alt="MutAIon Logo" width="100" height="100" />
+<img src="./MutAIon-Logo.png" alt="MutAIon Logo" width="100" height="100" />           
+
+[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://drive.google.com/file/d/16JUvatJ369kY-bGQPbTyne8l3LHGeOCy/view?usp=drive_link)
 
 ## MutAIon - LLM based Variant Analysis WebApp
 
@@ -14,6 +16,8 @@
 
 </p>
 
+
+
 This project implements a web application for variant effect prediction, leveraging the Evo2 large language model to determine the pathogenicity of single nucleotide variants (SNVs). It includes:
 
 * **Python Backend**: A FastAPI service running on an H100 GPU via Modal serverless infrastructure.
@@ -27,6 +31,9 @@ This project implements a web application for variant effect prediction, leverag
   * Reference genome display
   * Mutation input and prediction
   * Comparison with ClinVar data
+ 
+
+
 
 ## Architecture
 
@@ -50,10 +57,8 @@ This project implements a web application for variant effect prediction, leverag
 * **API Integration**: Uses React Query to call FastAPI endpoints.
 
 
-<video width="640" height="360" controls>
-  <source src="./MutAIon - Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
 
 
 ## Setup
