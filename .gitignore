@@ -1,0 +1,46 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.swn
+
+# Editor directories and files
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.sublime-workspace
+
+# Frontend (evo2-frontend - Next.js)
+evo2-frontend/node_modules/
+evo2-frontend/.next/
+evo2-frontend/out/
+evo2-frontend/.env*.local
+evo2-frontend/*.tsbuildinfo
+evo2-frontend/next-env.d.ts
+
+# Backend (evo2-backend - Python/Modal)
+evo2-backend/__pycache__/
+evo2-backend/*.pyc
+evo2-backend/*.pyo
+evo2-backend/*.pyd
+evo2-backend/.venv/
+evo2-backend/venv/
+evo2-backend/env/
+evo2-backend/*.env
+evo2-backend/.env
+evo2-backend/.modal*
+evo2-backend/brca1_analysis_plot.png
