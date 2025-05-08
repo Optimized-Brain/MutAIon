@@ -49,6 +49,13 @@ This project implements a web application for variant effect prediction, leverag
   * `/gene/[geneId]` Gene details and sequence
 * **API Integration**: Uses React Query to call FastAPI endpoints.
 
+
+<video width="640" height="360" controls>
+  <source src="./MutAIon - Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## Setup
 
 ### Prerequisites
