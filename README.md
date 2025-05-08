@@ -1,6 +1,18 @@
-<img src="./MutAIon-Logo.png" alt="MutAIon Logo"/> 
+<img src="./MutAIon-Logo.png" alt="MutAIon Logo" width="100" height="100" />
 
 ## MutAIon - LLM based Variant Analysis WebApp
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS"/> 
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/> 
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/> 
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/> 
+<img src="https://img.shields.io/badge/modal-00C853?style=for-the-badge&logo=modal&logoColor=white" alt="Modal"/> 
+
+
+</p>
 
 This project implements a web application for variant effect prediction, leveraging the Evo2 large language model to determine the pathogenicity of single nucleotide variants (SNVs). It includes:
 
